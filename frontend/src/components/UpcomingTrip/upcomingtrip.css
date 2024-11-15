@@ -1,0 +1,27 @@
+/* Add styles to the div containing the passenger names */
+.names-container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+  
+  /* Style the passenger names */
+  .names {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  /* Style the ticket section */
+  .ticket__section {
+    margin-bottom: 20px;
+  }
+  
+  /* Style the heading for the passenger names section */
+  .ticket__section h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
